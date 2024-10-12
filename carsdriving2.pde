@@ -132,7 +132,7 @@ void setup(){
   buttons[3] = domanyquickgens;
   buttons[4] = savebest;
   
-  randomSeed(20);
+  //randomSeed(20);
   //randomSeed(11);
   // seed 6 is good for world 4(1 + 24 rays, {16, 16} hidddens, spawn centered, goal top, 30 boxes max
   // seed 3 is good for world 4 (1 + 8 rays, {6, 6} hiddens), spawn/goal centered, 30 boxes max

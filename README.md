@@ -1,6 +1,8 @@
 # GA-Car-Driving
 Evolves "cars" using a genetic algorithm.
 
+It doesn't seem to work when I download it for some reason. I think I might've messed something up with compiling it, I'm not sure. 
+
 Can take around 500 generations to start seriously improving. This can take 5-10 minutes if you do quick generations continuously and let it run. If you do "watch multiple generations", you can return to the menu by hitting space. Once the current generation finishes it will take you back.
 
 Uses the Processing environment/programming language (https://processing.org/), but can be run without it using the carsdriving2.exe file. Probably that whole folder would need to be downloaded in order for it to run properly, but I'm not sure.
